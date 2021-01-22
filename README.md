@@ -3,7 +3,7 @@
 Please see the output of my SQL Queries below.
 
  1. List the following details of each employee: employee number, last name, first name, sex, and salary.
- 
+ ![alt text](https://github.com/nadiarichards/sql-challenge/blob/main/EmployeeSQL/Images/SQL_q1.png)
  
  2. List first name, last name, and hire date for employees who were hired in 1986.
  
